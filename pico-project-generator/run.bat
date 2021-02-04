@@ -1,0 +1,1 @@
+py -3 pico_project.py --gui
